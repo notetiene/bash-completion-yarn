@@ -1,3 +1,8 @@
+# -*- mode: sh; sh-shell: bash -*-
+# vim:ft=sh:
+
+# /bin/echo -e '\033[1;32mIn .bash/bash-completion.d/yarn-completion.bash\033[0m'
+
 # shellcheck shell=bash disable=2207
 # vim: set fdm=syntax fdl=0:
 #
